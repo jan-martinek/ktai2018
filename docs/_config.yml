@@ -1,0 +1,13 @@
+collections:
+  syllabus:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: syllabus
+    values:
+      layout: unit
+
+baseurl: /ktai2018
+docsUrl: "https://is.muni.cz/el/1421/podzim2018/VIKBB55/um/"
+assessmentsUrl: "https://docs.google.com/spreadsheets/d/1b9p2hMYoWk918xOW9gGVPco305s3fVYYm32fxrg6o0o/edit?usp=sharing"
