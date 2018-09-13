@@ -42,10 +42,9 @@ Přípravu je možné psát neformálním stylem. Na zadané texty není třeba 
 
 **Esej** pojednává o společenském významu konkrétní aktuální technologické inovace a opírá se o teoretickou bázi textů přečtených v kurzu a související publikace. Témata esejů si studenti tvoří během prvních dvou týdnů semestru v konzultaci s vyučujícím prostřednictvím diskusního fóra předmětu. Témata esejů jsou vždy formulována jako spor, který je v eseji vyřešen ve prospěch některé ze stran.
 
-<!-- (Inspirací mohou být témata dřívějších ročníků, viz níže.) -->
-
-
 ### Průběžná tvorba eseje
+
+**Zadání eseje bude upřesněno a termíny upraveny.**
 
 Esej je psán průběžně v následujících verzích (rozsahy je potřebné dodržet &plusmn;10%):
 
@@ -82,12 +81,6 @@ Text může být v každé verzi vrácen k přepracování (např. pro nedostate
 ### Normostrana
 
 {% include standardPage.html %}
-
-
-<!--
-### Témata esejů v minulých letech (pro inspiraci)
-{% include topics.html %}
--->
 
 
 ## Celkové hodnocení
