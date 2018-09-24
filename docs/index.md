@@ -6,8 +6,8 @@ menuPosition: 1
 ---
 <h1>Kritická teorie a inovace:<br> kde jsme a co s tím?</h1>
 
-**Rychlé odkazy**: [Facebooková skupina](https://www.facebook.com/groups/618087831642260/) 
-· [Hodnocení studentů ]({{ site.assessmentsUrl }}) 
+**Rychlé odkazy**: [Slack](https://ktai.slack.com) 
+· [Hodnocení studentů]({{ site.assessmentsUrl }}) 
 · [Klub kritického čtení](https://www.facebook.com/groups/kritickeCteni/)
 
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
@@ -15,7 +15,7 @@ menuPosition: 1
 
 ## Aktualizace a změny
 
-*Zatím žádné.*
+- (24. září) Doplnil jsem podrobnosti ohledně esejů a odkazy na Slack.
 
 
 ## Proč si zapsat tento kurz?
