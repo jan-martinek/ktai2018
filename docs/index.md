@@ -15,6 +15,7 @@ menuPosition: 1
 
 ## Aktualizace a změny
 
+- (19. října) Upravil jsem uzávěrky dalších kroků esejů — posunul jsem to o týden, aby byla rezerva po pozdně odevzdaných návrzích v prvním kroku.
 - (24. září) Doplnil jsem podrobnosti ohledně esejů a odkazy na Slack.
 
 
